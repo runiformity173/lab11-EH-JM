@@ -1,4 +1,6 @@
 # https://github.com/runiformity173/lab11-EH-JM
+# Partner 1: Eli Harrison
+# Partner 2: Julissa Marcos
 import unittest
 
 import calculator
