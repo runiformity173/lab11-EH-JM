@@ -4,8 +4,9 @@ calculator.py
 
 One function per operation, in order.
 """
-import math
 
+# First example
+import math
 def add(a,b):
     return a + b
 
